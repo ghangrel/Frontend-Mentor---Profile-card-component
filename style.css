@@ -90,13 +90,14 @@ span {
     letter-spacing: .1rem;
 }
 
-@media (min-width: 48rem) {
+/*@media (min-width: 48rem) {
     html {
         font-size: 21px;
     }
 
     .card {
         background-size: 20rem;
+        padding: 1rem;
     }
-}
+}*/
 
